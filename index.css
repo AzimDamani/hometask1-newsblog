@@ -99,8 +99,8 @@
 
 .navbar{
     display: flex;
-    margin-top: 1rem;
-    margin-bottom: 1rem;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
     justify-content: space-between;
 }
 
@@ -128,9 +128,10 @@
 .card
 {
     display: flex;
-    border: 1px solid black;
-    padding-top: 1rem;
-    padding-bottom: 2rem;
+    margin-right: 2rem;
+    margin-left: 2rem;
+    margin-top: 1rem;
+    margin-bottom: 2rem;
 }
 
 img{
